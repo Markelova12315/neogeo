@@ -1,4 +1,4 @@
-# neogeo
+# neogeo/permeabillity
 #include <cstdio> #include <cmath> #include <cstring> #include <cassert> #include <vector> using namespace std;
 
 #include <gsl/gsl_rng.h> #include <gsl/gsl_randist.h> #include <gsl/gsl_vector.h>
